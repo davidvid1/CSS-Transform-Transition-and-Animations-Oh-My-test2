@@ -41,3 +41,11 @@ nav {
   from {}
   to {}
 }
+::-ms-tooltip {
+  border: 1px solid black;
+  height: 50px;
+  width: 500px;
+  margin: auto;
+  background-color: palegreen;
+
+}
